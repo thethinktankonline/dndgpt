@@ -164,6 +164,7 @@ uv.lock
 
 # Media files
 media/
+srd/
 
 # Static files (production)
 staticfiles/
